@@ -6,6 +6,6 @@ Generate Routine is an extension that makes it easier to create routines, with j
 
 To use just press crtl+alt+r
 
-\!\[feature X\]\(images/generate-routine.png\)
+![Exemploe para gerar uma rotina](images/generate-routine.png\)
 
 **Enjoy!**
